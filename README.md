@@ -11,7 +11,7 @@ Inspired from Adrian (Pysearchimage). Thank you for this awesome source.
 
 **************************
 <img width="1048" alt="6" src="https://user-images.githubusercontent.com/32989239/117508665-a8ad9900-af91-11eb-8a3b-5eba9488f7fa.png">
-***************************
+
 
 #### What is Centroid Tracker?
 
