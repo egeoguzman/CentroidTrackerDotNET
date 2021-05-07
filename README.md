@@ -10,8 +10,7 @@ Inspired from Adrian (Pysearchimage). Thank you for this awesome source.
 #### NOTE!: Still available for updates and your contributions :)
 
 **************************
-<img width="1048" alt="6" src="https://user-images.githubusercontent.com/32989239/117508665-a8ad9900-af91-11eb-8a3b-5eba9488f7fa.png">
-
+<img width="401" alt="Screen Shot 2021-05-08 at 00 15 20" src="https://user-images.githubusercontent.com/32989239/117509219-88caa500-af92-11eb-8fde-72b34ad39ec0.png">
 
 #### What is Centroid Tracker?
 
