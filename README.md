@@ -33,6 +33,24 @@ After getting bounding box coordinates, the center of each box called “centroi
 ![4](https://user-images.githubusercontent.com/32989239/117506293-07711380-af8e-11eb-9e8f-e686e80c8daa.png)
 ![5](https://user-images.githubusercontent.com/32989239/117506321-12c43f00-af8e-11eb-8574-d9a7892d2c9c.png)
 
+#### How to run?
+<h5>
+  
+```diff
+- Clone the repository: git clone https://github.com/egeoguzman/CentroidTrackerDotNET.git
+
+- Open the project on Visual Studio 2019
+
+- Right Click Solution (Solution Explorer) -> Clean Solution
+
+- Right Click Solution (Solution Explorer) -> Rebuild Solution
+# It will automatically install dependencies and packages
+
+- Click "Start"
+```
+
+</h5>
+
 *************************************
 
 #### References
